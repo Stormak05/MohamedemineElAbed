@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(241, 242, 244);
+    background-attachment: fixed;
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+h2{
+    margin-left: 30%;
+    font-size: 40px;
+}
+
+
+.header{
+    width:100%;
+ }
+
+
+
+
+.pilote{
+    padding: 0%;
+    margin-left: 25%;
+    border:2px solid black;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 40%;
+    padding: 15px;
+}
+
+.images{
+    padding: 0px;
+    margin-left: 20%px;
+}
+
+.nom{
+    display: flex;
+}
+
+.numero{
+    display: flex;
+}
+
+.ecurie{
+    display: flex;
+}
+
+
+.equipier{
+    display: flex;
+}
+
+.container{
+    height: 100vh;
+}
+
+.espace{
+    height: 10vh;
+}
+
+.bouton-ajouter{
+    color: black;
+    text-decoration: none;
+    padding: 0%;
+    border:2px solid black;
+    border-radius: 15px;
+    margin-left: 25%;
+    width: 40%;
+    padding: 5px;
+}
+
+.bouton, .bouton-modifier, .bouton-supprimer{
+    color: black;
+    text-decoration: none;
+    padding: 0%;
+    margin-left: 25%;
+    border:2px solid black;
+    border-radius: 15px;
+    margin: 0 auto;
+    width: 40%;
+    padding: 5px;
+}
+
+table{
+    border-spacing:0;
+    margin:0 auto;
+    width:70%;
+}
+
+th, td{
+    border:1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th{
+    background-color: lightskyblue;
+    color: black;
+    line-height: 1.4em;
+    text-transform: uppercase;
+}
+
+caption{
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.impair{
+    background-color: #4a932f;
+}
+
+.pair{
+    background-color: #444494;
+    color: #030000;
+}
