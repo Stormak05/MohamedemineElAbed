@@ -1,0 +1,10 @@
+{
+  "name": "@clausus/game",
+  "private": true,
+  "type": "module",
+  "description": "Le jeu Clausus (Three.js, fichiers statiques). Servi par apps/web sous /game/.",
+  "scripts": {
+    "serve": "node serve.mjs",
+    "build": "node build.mjs"
+  }
+}
