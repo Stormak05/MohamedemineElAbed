@@ -1,0 +1,67 @@
+{
+ "bubble_phone": {
+  "slice": [
+   32,
+   32,
+   32,
+   32
+  ],
+  "padding": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "textColor": "#25211a"
+ },
+ "bubble_thought": {
+  "slice": [
+   32,
+   32,
+   32,
+   32
+  ],
+  "padding": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "textColor": "#1d2d28"
+ },
+ "bubble_hallu": {
+  "slice": [
+   32,
+   32,
+   32,
+   32
+  ],
+  "padding": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "textColor": "#2e1012"
+ },
+ "nameplate": {
+  "slice": [
+   12,
+   20,
+   12,
+   20
+  ],
+  "padding": [
+   12,
+   20,
+   12,
+   20
+  ],
+  "textColor": "#efe6c8"
+ },
+ "tail_phone": {
+  "width": 64,
+  "height": 48,
+  "offsetX": 40
+ }
+}

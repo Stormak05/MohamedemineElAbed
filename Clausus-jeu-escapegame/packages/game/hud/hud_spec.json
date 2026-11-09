@@ -1,0 +1,18 @@
+{
+ "bar": {
+  "width": 512,
+  "height": 48,
+  "fill": {
+   "x": 16,
+   "y": 17,
+   "width": 480,
+   "height": 15
+  }
+ },
+ "palette": {
+  "full": "#c98a9a",
+  "mid": "#a0703e",
+  "low": "#7a2a26"
+ },
+ "source": "blockbench/ (rendered from .bbmodel)"
+}
