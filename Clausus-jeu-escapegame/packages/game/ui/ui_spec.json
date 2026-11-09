@@ -1,0 +1,115 @@
+{
+ "button": {
+  "slice": [
+   20,
+   20,
+   20,
+   20
+  ],
+  "textColor": "#e3d9bc"
+ },
+ "button_hover": {
+  "slice": [
+   20,
+   20,
+   20,
+   20
+  ],
+  "textColor": "#f4ecd6"
+ },
+ "button_primary": {
+  "slice": [
+   20,
+   20,
+   20,
+   20
+  ],
+  "textColor": "#fff2e0"
+ },
+ "panel": {
+  "slice": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "textColor": "#e3d9bc"
+ },
+ "tab": {
+  "slice": [
+   16,
+   16,
+   16,
+   16
+  ],
+  "textColor": "#d9cfb0"
+ },
+ "tab_active": {
+  "slice": [
+   16,
+   16,
+   16,
+   16
+  ],
+  "textColor": "#fff2dc"
+ },
+ "keycap": {
+  "slice": [
+   8,
+   8,
+   16,
+   8
+  ],
+  "textColor": "#efe4c8"
+ },
+ "card_paper": {
+  "slice": [
+   40,
+   72,
+   24,
+   72
+  ],
+  "textColor": "#2b241a"
+ },
+ "mode_card": {
+  "slice": [
+   52,
+   52,
+   52,
+   52
+  ],
+  "textColor": "#e3d9bc"
+ },
+ "slider_track": {
+  "slice": [
+   12,
+   12,
+   12,
+   12
+  ]
+ },
+ "slider_fill": {
+  "slice": [
+   4,
+   0,
+   4,
+   0
+  ],
+  "tileX": true
+ },
+ "slider_knob": {
+  "slice": [
+   12,
+   12,
+   12,
+   12
+  ]
+ },
+ "palette": {
+  "accent": "#a8bca8",
+  "text": "#e3d9bc",
+  "textDim": "#a5a58a",
+  "danger": "#994e3e"
+ },
+ "source": "blockbench/ (rendered from .bbmodel)"
+}
