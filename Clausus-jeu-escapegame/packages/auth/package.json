@@ -1,0 +1,27 @@
+{
+  "name": "@clausus/auth",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "build": "tsc -b",
+    "check-types": "tsc -b"
+  },
+  "dependencies": {
+    "@better-auth/core": "1.7.12",
+    "@better-auth/drizzle-adapter": "1.7.12",
+    "@better-auth/passkey": "1.7.12",
+    "@clausus/db": "workspace:*",
+    "@simplewebauthn/server": "13.3.3",
+    "better-auth": "catalog:",
+    "drizzle-orm": "catalog:",
+    "resend": "6.37.0",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@clausus/config": "workspace:*",
+    "typescript": "catalog:"
+  }
+}
